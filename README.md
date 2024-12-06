@@ -65,9 +65,9 @@ Este repositório está licenciado sob a [MIT License](LICENSE).
 
 Se tiver dúvidas ou sugestões, entre em contato:
 
-- **Autor**: Guilherme M.
-- **Email**: guilherme@example.com
-- **LinkedIn**: [Perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **Autor**: Guilherme Matos Costa
+- **Email**: guimatos070@gmail.com
+- **LinkedIn**: [Perfil do LinkedIn](www.linkedin.com/in/guilherme-matos-413400200)
 
 ---
 
